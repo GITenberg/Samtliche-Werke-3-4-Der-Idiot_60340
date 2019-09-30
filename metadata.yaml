@@ -1,0 +1,73 @@
+_repo: Samtliche-Werke-3-4-Der-Idiot_60340
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Merezhkovsky, Dmitry Sergeyevich
+    aliases:
+    - Merejkowski, Dmitri
+    - Merejkowsky, Dmitry de
+    - Mereschkowski, Dmitri
+    - Мережковский, Дмитрий Сергеевич
+    - Mérejkowski, Dmitri
+    - Mérejkowsky, Dmitry de
+    birthdate: 1865
+    deathdate: 1941
+    gutenberg_agent_id: '36721'
+    url: http://www.gutenberg.org/2009/agents/36721
+    wikipedia: http://en.wikipedia.org/wiki/Dmitry_Merezhkovsky
+  translator:
+    agent_name: Rahsin, E. K.
+    aliases:
+    - Разин, Э. К.
+    - Rahsin, Less
+    birthdate: 1886
+    deathdate: 1966
+    gutenberg_agent_id: '49851'
+    url: http://www.gutenberg.org/2009/agents/49851
+    wikipedia: https://de.wikipedia.org/wiki/Elisabeth_Kaerrick
+creator:
+  author:
+    agent_name: Dostoyevsky, Fyodor
+    aliases:
+    - Dostoievski, Fédor Mikhailovitch
+    - Dostoievski, Fiodor
+    - Dostojewski, Fjodor Michailowitsch
+    - Dostoyevsky, Fyodor Mikhailovich
+    - Dostoievski, Fedor Mikhailovitch
+    - Достоевский, Фёдор Михайлович
+    - Dostoyevsky, F. M.
+    - Dostoevsky, Fyodor
+    birthdate: 1821
+    deathdate: 1881
+    gutenberg_agent_id: '314'
+    url: http://www.gutenberg.org/2009/agents/314
+    wikipedia: https://en.wikipedia.org/wiki/Fyodor_Dostoevsky
+  editor:
+    agent_name: Moeller van den Bruck, Arthur
+    aliases:
+    - Bruck, Arthur Moeller van den
+    - Den Bruck, Arthur Moeller van
+    - Van den Bruck, Arthur Moeller
+    birthdate: 1876
+    deathdate: 1925
+    gutenberg_agent_id: '49850'
+    url: http://www.gutenberg.org/2009/agents/49850
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Arthur_Moeller_van_den_Bruck
+    - https://en.wikipedia.org/wiki/Arthur_Moeller_van_den_Bruck
+description: ''
+gutenberg_issued: '2019-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60340'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PG'
+- !lcsh 'Russia -- Social conditions -- 1801-1917 -- Fiction'
+- GITenberg
+title: 'Sämtliche Werke 3-4: Der Idiot'
+url: http://www.gutenberg.org/ebooks/60340
