@@ -25,6 +25,9 @@ contributor:
     gutenberg_agent_id: '49851'
     url: http://www.gutenberg.org/2009/agents/49851
     wikipedia: https://de.wikipedia.org/wiki/Elisabeth_Kaerrick
+covers:
+- cover_type: archival
+  image_path: 60340-h/images/cover.jpg
 creator:
   author:
     agent_name: Dostoyevsky, Fyodor
@@ -56,6 +59,8 @@ creator:
     - https://de.wikipedia.org/wiki/Arthur_Moeller_van_den_Bruck
     - https://en.wikipedia.org/wiki/Arthur_Moeller_van_den_Bruck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60340#Samtliche-Werke-3-4-Der-Idiot
 gutenberg_issued: '2019-09-22'
 gutenberg_type: Text
 identifiers:
